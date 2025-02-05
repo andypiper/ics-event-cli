@@ -7,7 +7,7 @@ A command-line tool to quickly extract and display events from an ICS file. Supp
 - **Shows only future events by default** (past events optional).
 - **Rich terminal table display** using `rich`.
 - **Export as CSV or Markdown**.
-- **Short mode**: Shows only the next 10 events.
+- **Short mode**: Shows only the next n events (defaults to 10); complete listing available.
 
 ## Installation
 
