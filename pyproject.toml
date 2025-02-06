@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ics-events-cli"
-version = "1.0.0"
+version = "1.0.1"
 description = "A CLI tool to extract and display events from an ICS file."
 authors = ["Andy Piper <andypiper@omg.lol>"]
 license = "MIT"
